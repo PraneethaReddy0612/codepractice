@@ -1,4 +1,4 @@
-package src.test.java.com.example.myApp;
+package com.example.myApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
